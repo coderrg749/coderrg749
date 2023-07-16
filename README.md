@@ -8,7 +8,7 @@ Backend Developer | Node.js | Express.js | MongoDB | C/C++ Enthusiast
 
 🌱 Continuous learning is a vital part of my journey, and I am constantly exploring new technologies and tools to expand my skill set. I strive to stay up-to-date with the latest industry trends and continuously enhance my capabilities.
 
-📫 If you'd like to connect or collaborate, feel free to reach out to me on LinkedIn at [Add your LinkedIn profile URL]. Let's build amazing things together and make an impact!
+📫 If you'd like to connect or collaborate, feel free to reach out to me on LinkedIn at www.linkedin.com/in/rajan-grover-5a047620b. Let's build amazing things together and make an impact!
 
 Happy coding! ✨
 
