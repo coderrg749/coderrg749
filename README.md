@@ -1,14 +1,23 @@
-Backend Developer | Node.js | Express.js | MongoDB | C/C++ Enthusiast
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-👋 Hello, I'm Rajan Grover! Welcome to my GitHub profile. I am a dedicated backend developer with a strong focus on building scalable and efficient applications. I have expertise in using Node.js, Express.js, and MongoDB to develop robust and high-performance server-side solutions.
+<h1 align="center">Hi 👋, I'm Rajan Grover</h1>
+<h3 align="center">A passionate backend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-💻 I enjoy tackling complex challenges and implementing innovative solutions. With a solid foundation in C/C++, I bring a strong understanding of computer science principles to my development work. I am passionate about writing clean and maintainable code, leveraging my knowledge of algorithms and data structures.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderrg749&label=Profile%20views&color=0e75b6&style=flat" alt="coderrg749" /> </p>
 
-⚙️ As an open-source enthusiast, I actively contribute to the developer community and believe in the power of collaboration. I am always excited to work on projects that push the boundaries and make a positive impact.
+- 🔭 I’m currently working on **UnivConnect**
 
-🌱 Continuous learning is a vital part of my journey, and I am constantly exploring new technologies and tools to expand my skill set. I strive to stay up-to-date with the latest industry trends and continuously enhance my capabilities.
+- 🌱 I’m currently learning **Payment Gateways, Sockets**
 
-📫 If you'd like to connect or collaborate, feel free to reach out to me on LinkedIn at www.linkedin.com/in/rajan-grover-5a047620b. Let's build amazing things together and make an impact!
+- 💬 Ask me about **MERN**
 
-Happy coding! ✨
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rajan-grover-5a047620b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajan-grover-5a047620b" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderrg749&show_icons=true&locale=en&layout=compact" alt="coderrg749" /></p>
